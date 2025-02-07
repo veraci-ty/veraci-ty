@@ -16,9 +16,9 @@
 
 ### 📊 GitHub Stats  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veraci-ty&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veraci-ty&show_icons=true&theme=radical)](https://github.com/veraci-ty)  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veraci-ty&layout=compact&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veraci-ty&layout=compact&theme=radical)](https://github.com/veraci-ty)  
 
 ---
 
