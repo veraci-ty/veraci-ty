@@ -3,7 +3,7 @@
 ### 💻 [About Me]  
 
 - 🛠️ Focused on **[Websites, Roblox, Discord Bots]**  
-- 🎮 Working on **[Solo Showdown]**  
+- 🎮 Working on **[Fiction Tower Defense]**  
 
 ---
 
@@ -23,9 +23,9 @@
 ---
 
 ### 📜 Current Projects  
-- ⚙️ Solo Showdown - Solo Leveling Battlegrounds
+- ⚙️ Fiction Tower Defense - Tower Defense based on fiction, any sorta media or games.
 - 💫 Stellar - DOORS space inspired game
 ---
 
 ### 📫 My Portfolio  
-https://meshp.art/yds
+https://meshp.art/vera
